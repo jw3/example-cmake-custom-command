@@ -1,3 +1,8 @@
+CMake Custom Command
+===
+
+Demonstrate a custom command integrated into the build.
+
 ### references
 
 - https://cmake.org/cmake/help/v3.9/command/add_custom_command.html
